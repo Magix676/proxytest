@@ -1,0 +1,9 @@
+{
+  "name": "proxynet-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple static Proxynet test page",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
